@@ -127,22 +127,22 @@ void main(){
      switch (choice)
      {
      case 1:
-         printf("\n\nEnter two numbers: ");
+         printf("\nEnter two numbers: ");
          scanf("%d %d",&a,&b);
          printf("\n%d + %d = %d",a,b,sum(a,b));
          break;
      case 2:
-         printf("\n\nEnter a number: ");
+         printf("\nEnter a number: ");
          scanf("%d",&a);
          printf("\nReverse of %d = %d",a,reverse(a));
          break;
      case 3:
-         printf("\n\nEnter number of inputs: ");
+         printf("\nEnter number of inputs: ");
          scanf("%d",&a);
          printf("\n Average = %0.3f",average(a));
          break;
      case 4:
-         printf("\n\nEnter a number: ");
+         printf("\nEnter a number: ");
          scanf("%d",&a);
          printf("\nSeries = ");
          triangle(a);
