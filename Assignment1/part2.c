@@ -1,6 +1,6 @@
-// made by ANKIT DAS
+// made by Ankit Das
 // on 15 July 2020
-// ideally, compile using gcc 8 instead of Dev-C
+// tested on gcc 8
 
 
 #include<stdio.h>
