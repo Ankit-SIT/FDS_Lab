@@ -9,8 +9,7 @@ CS A1
 #include<math.h>
 #include<string.h>
 
-int sum(int a, int b)
-{
+int sum(int a, int b){
     return a + b;
 }
 
