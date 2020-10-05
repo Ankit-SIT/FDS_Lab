@@ -1,3 +1,9 @@
+/*
+Ankit Das
+Oct. 2020
+Binary Search using Iterations
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
