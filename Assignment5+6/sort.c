@@ -1,3 +1,10 @@
+/*
+Ankit Das
+Oct. 2020
+
+Implementations of Sorting Algorithms
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
