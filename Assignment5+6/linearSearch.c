@@ -1,3 +1,10 @@
+/*
+Ankit Das
+Oct. 2020
+
+Linear Search with Duplication Support
+*/
+
 #include<stdio.h>
 #include<stdlib.h> 
 
