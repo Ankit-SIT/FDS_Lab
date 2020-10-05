@@ -1,3 +1,10 @@
+/*
+Ankit Das
+Oct. 2020
+
+Binary Search done Recursively
+*/
+
 #include<stdio.h> 
 #include<stdlib.h>
 
